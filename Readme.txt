@@ -181,7 +181,7 @@ The dashboard provides an interactive way to explore and visualize data:
 For queries or issues, contact the development team at:
 
 - Email: thanuka.ellepola@gmail.com
-- GitHub: [Statistical Application Repository](https://github.com/Thanuka9/Statapp)
+- GitHub: (https://github.com/Thanuka9/Statapp)
 
 ---
 
